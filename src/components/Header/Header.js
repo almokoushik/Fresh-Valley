@@ -6,7 +6,7 @@ import Typography from '@material-ui/core/Typography';
 import Button from '@material-ui/core/Button';
 import IconButton from '@material-ui/core/IconButton';
 import { Link, useHistory } from 'react-router-dom';
-import bar from "../images/icons/Group 33072.png"
+import bar from "../images/icons/Untitled2.png"
 import { Form, Nav, Navbar, NavDropdown } from 'react-bootstrap';
 import { FormControl } from '@material-ui/core';
 // import logOut from "../Login/LoginManager"
