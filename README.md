@@ -1,3 +1,6 @@
+Website:https://fresh-valley-10a15.web.app/
+Server:https://github.com/almokoushik/Fresh-Valley-Server
+
 •Admin can add a product, manage a product, change the order status, remove a product, and edit a product like increased price and decrease and quantity.
 
 •The homepage will load data from MongoDB and show a buy button below every product. After clicking the buy button homepage will take the user to login if not logged in. If the user were to log in, it would take him to checkout. He will see the checkout button on the checkout page, and he will see the checkout button. If he clicks the checkout button, the order will store in the Database. He can see all of his orders both now and past.
